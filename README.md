@@ -6,7 +6,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Sunny Ranjan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<h3 align="center">CSIT | Full Stack Developer | UI/UX Designer </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F6F6F6&center=true&vCenter=true&width=435&lines=I'm+a+Fullstack+Developer;I'm+a+UI%2FUX+Designer;I'm+into UI/UX Designer;I+love+building+with+code" alt="Typing SVG" />
+</p>
+
+---
+
 
 
 
